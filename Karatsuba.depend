@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680031873 source:c:\users\visitha\desktop\new folder\karatsuba\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
